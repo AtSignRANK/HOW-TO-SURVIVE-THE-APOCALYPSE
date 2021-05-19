@@ -1,0 +1,10 @@
+name: HOW-TO-SURVIVE-THE-APOCALYPSE
+main: io.github.plugin.Main
+version: 1.16.5
+api-version: 1.16
+author: RANK0816
+commands:
+  vaccine:
+    permission: op
+  monster:
+    permission: op

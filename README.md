@@ -11,3 +11,6 @@ Creeper : ExploseRadius - 30, Fast, Healthier
 # CREEPER ESTEREGG
 If Creeper explode, there has Lingering Potion Effect.
 만약 크리퍼가 터지면, 거기에는 잔류형 표션 효과가 남습니다.
+
+# What is "/monster"? "/monster"는 무엇인가요?
+Apocalypse monster turn on/off 아포칼립스 몬스터를 키고 끌 수 있습니다.

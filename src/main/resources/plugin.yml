@@ -1,0 +1,21 @@
+#name: HOW-TO-SURVIVE-THE-APOCALYPSE
+#main: io.github.plugin.apocalypse.Main
+#version: 1.16.5
+#api-version: 1.16
+#author: RANK0816
+#commands:
+#  vaccine:
+#    permission: op
+#  monster:
+#    permission: op
+
+name: MESSAGE
+main: io.github.plugin.msg.Message
+version: 1.16.5
+api-version: 1.16
+author: RANK0816
+commands:
+  귓:
+
+  칭호:
+    permission: op

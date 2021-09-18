@@ -12,7 +12,7 @@ $Version = "1.16.5"
 
 # Plugins
 $Plugins = (
-    "https://github.com/Jaemin-MC/HOW-TO-SURVIVE-APOCALYPSE/releases/download/1.0/APOCALYPSE.jar"
+    "https://github.com/AtSignRANK/HOW-TO-SURVIVE-APOCALYPSE/releases/download/1.0/APOCALYPSE.jar"
 )
 
 Function Download-File
